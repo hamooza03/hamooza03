@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Hamza Abu Alkhair</h1>
 <h3 align="center">Electrical Engineering Student with a passion for Computers</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
