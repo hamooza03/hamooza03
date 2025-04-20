@@ -1,5 +1,43 @@
-<div align="center">
+# 👋 Hi, I'm Hamza Abu-Alkhair
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-abk)
+Aspiring **Digital Design Engineer** based in Montreal, Canada 🇨🇦  
+Currently studying **Electrical Engineering at McGill University** and building systems using **VHDL** and **Verilog**.  
+Passionate about **FPGA design**, **ASIC/RTL development**, and solving real-world problems with low-level hardware solutions.
 
-##🌲 Electrical Engineering Student at McGill
+---
+
+## 🛠️ Skills & Tools
+
+**Hardware:** Verilog, VHDL, Altera FPGAs (Cyclone V), Quartus, ModelSim  
+**Software:** Python, C, MATLAB, Postman, Linux, Logisim  
+
+---
+
+## 🔬 Projects & Highlights
+
+### 🔷 [Arccos Computation in VHDL](https://github.com/hamooza03/Arccos_in_VHDL)
+- Fixed-point `arccos(x)` calculator on an **Altera DE1-SoC FPGA**
+- Designed custom VHDL modules for **BCD conversion** and **7-segment display**
+- Integrated with **JTAG I/O** using a custom **Avalon slave interface**
+
+### 🟩 HDLBits Verilog Practice
+- Completed **60+ exercises** on combinational logic, FSMs, and sequential circuits  
+- Repo link: [HDLBits Problem Sets](https://hdlbits.01xz.net/wiki/Problem_sets)
+
+### ⚙️ CPU Design in Logisim
+- Built a 16-bit CPU with ALU, memory access, and branching logic
+
+---
+
+## 🌱 Currently Learning
+
+- UVM & SystemVerilog for testbench automation  
+- DSP acceleration using pipelining in HDL
+
+---
+
+## 📫 Get in Touch
+
+- 📧 [abualkhair.hamza03@gmail.com](mailto:abualkhair.hamza03@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/hamza-abk)  
+- 💻 [GitHub](https://github.com/hamooza03)
