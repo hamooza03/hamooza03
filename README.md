@@ -38,6 +38,5 @@ Currently studying **Electrical Engineering at McGill University** and building 
 
 ## 📫 Get in Touch
 
-- 📧 [abualkhair.hamza03@gmail.com](mailto:abualkhair.hamza03@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/hamza-abk)  
 - 💻 [GitHub](https://github.com/hamooza03)
