@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hamza Abu-Alkhair
 
-Aspiring **Digital Design Engineer** based in Montreal, Canada  
+Aspiring **Digital Design Engineer** based in Montreal, Canada!
 Currently studying **Electrical Engineering at McGill University** and building systems using **VHDL** and **Verilog**.  
 Passionate about **FPGA design**, **ASIC/RTL development**, and solving real-world problems with low-level hardware solutions.
 
