@@ -26,12 +26,13 @@ Currently studying **Electrical Engineering at McGill University** and building 
 ### ⚙️ CPU Design in Logisim
 - Built a 16-bit CPU with ALU, memory access, and branching logic
 
+
 ---
 
 ## 🌱 Currently Learning
 
 - UVM & SystemVerilog for testbench automation  
-- DSP acceleration using pipelining in HDL
+- Combinational and Sequential circuit testing methods
 
 ---
 
