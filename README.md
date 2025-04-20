@@ -39,4 +39,3 @@ Currently studying **Electrical Engineering at McGill University** and building 
 ## 📫 Get in Touch
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/hamza-abk)  
-- 💻 [GitHub](https://github.com/hamooza03)
