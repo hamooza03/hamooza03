@@ -8,7 +8,7 @@ Currently studying **Electrical Engineering at McGill University** and building 
 ## 🛠️ Skills & Tools
 
 **Hardware:** Verilog, VHDL, Altera FPGAs (Cyclone V), Quartus, ModelSim  
-**Software:** Python, C, MATLAB, Postman, Linux, Logisim  
+**Software:** Python, C, MATLAB, Linux
 
 ---
 
