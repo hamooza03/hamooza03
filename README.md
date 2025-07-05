@@ -29,11 +29,11 @@ Currently studying **Electrical Engineering at McGill University** and building 
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Learning / Working On
 
 - UVM & SystemVerilog for testbench automation  
 - Combinational and Sequential circuit testing methods
-- [FIX Protocol Parser over UART](https://github.com/hamooza03/uart_fix_protocol)
+- [FIX Protocol Parser over UART](https://github.com/hamooza03/fix_in_uart)
 - RISC-V CPU Architecture; Currently writing RTL in Verilog 
 
 ---
