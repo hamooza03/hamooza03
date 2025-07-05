@@ -33,6 +33,7 @@ Currently studying **Electrical Engineering at McGill University** and building 
 
 - UVM & SystemVerilog for testbench automation  
 - Combinational and Sequential circuit testing methods
+- FIX Protocol Parser over UART
 - RISC-V CPU Architecture; Currently writing RTL in Verilog 
 
 ---
