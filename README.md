@@ -32,6 +32,7 @@
 
 - [16 Bit CPU](https://github.com/hamooza03/16bitcpu)
 - [Adder to 7-Segment Display](https://github.com/hamooza03/adder-7seg/tree/main)
+- Currently Reading [Mastering FPGA Chip Design](https://www.elektor.com/products/mastering-fpga-chip-design)
 - UVM & SystemVerilog for testbench automation  
 - Combinational and Sequential circuit testing methods
 
