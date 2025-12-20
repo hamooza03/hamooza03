@@ -7,7 +7,7 @@
 ## 🛠️ Skills & Tools
 
 **Hardware:** Verilog, VHDL, Altera FPGAs, Quartus, ModelSim  
-**Software:** Python, C, MATLAB
+**Software:** Python, C, MATLAB, Linux
 
 ---
 
