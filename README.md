@@ -6,8 +6,8 @@ Currently studying **Electrical Engineering at McGill University**. Building sys
 
 ## 🛠️ Skills & Tools
 
-**Hardware:** Verilog, VHDL, Altera FPGAs (Cyclone V), Quartus, ModelSim  
-**Software:** Python, C, MATLAB, Linux
+**Hardware:** Verilog, VHDL, Altera FPGAs, Quartus, ModelSim  
+**Software:** Python, C, MATLAB
 
 ---
 
@@ -30,9 +30,9 @@ Currently studying **Electrical Engineering at McGill University**. Building sys
 
 ## 🌱 Currently Learning / Working On
 
+- [16 Bit CPU](https://github.com/hamooza03/16bitcpu)
 - UVM & SystemVerilog for testbench automation  
 - Combinational and Sequential circuit testing methods
-- [16 Bit CPU](https://github.com/hamooza03/16bitcpu)
 
 ---
 
