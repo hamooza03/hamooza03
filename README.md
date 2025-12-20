@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Hamza Abu-Alkhair
 
-Aspiring **Digital Design Engineer** based in Montreal, Canada!
-Currently studying **Electrical Engineering at McGill University** and building systems using **VHDL** and **Verilog**. Passionate about **FPGA design**, **ASIC/RTL development**, and solving real-world problems with low-level hardware solutions.
+Currently studying **Electrical Engineering at McGill University**. Building systems using **VHDL** and **Verilog**. Passionate about **FPGA design** and **ASIC/RTL development**.
 
 ---
 
@@ -33,8 +32,7 @@ Currently studying **Electrical Engineering at McGill University** and building 
 
 - UVM & SystemVerilog for testbench automation  
 - Combinational and Sequential circuit testing methods
-- [FIX Protocol Parser over UART](https://github.com/hamooza03/fix_in_uart)
-- RISC CPU Architecture; Currently writing RTL in Verilog 
+- [16 Bit CPU](https://github.com/hamooza03/16bitcpu)
 
 ---
 
