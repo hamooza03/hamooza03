@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hamza Abu-Alkhair
 
-Currently studying **Electrical Engineering at McGill University**. Building systems using **VHDL** and **Verilog**. Passionate about **FPGA design** and **ASIC/RTL development**.
+**Electrical Engineering at McGill University**, and have been building systems using **VHDL** and **Verilog**. Passionate about **FPGA design** and **ASIC/RTL development**.
 
 ---
 
