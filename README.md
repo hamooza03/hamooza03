@@ -18,9 +18,9 @@ Electrical Engineering at McGill University, and have been building systems usin
 - Designed custom VHDL modules for **BCD conversion** and **7-segment display**
 - Integrated with **JTAG I/O** using a custom **Avalon slave interface**
 
-### 🟩 HDLBits Verilog Practice
-- Completed **60+ exercises** on combinational logic, FSMs, and sequential circuits  
-- Repo link: [HDLBits Problem Sets](https://hdlbits.01xz.net/wiki/Problem_sets)
+### 🟩 [HDLBits - Verilog Practice Problems](https://github.com/hamooza03/HDLBits)
+- Completed **70+ exercises** on combinational logic, FSMs, and sequential circuits  
+- Repo link: [HDLBits Problem Set](https://hdlbits.01xz.net/wiki/Problem_sets)
 
 ### ⚙️ CPU Design in Logisim
 - Built a 16-bit CPU with ALU, memory access, and branching logic
